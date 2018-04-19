@@ -31,6 +31,6 @@ Verilog is one such code(VHDL is another type. <br />
     
 # 檢視波形
   * 使用GTKWave指令 <br />
-      > gtkwave vcd_file.vcd <br />
-    在Testbench中指定 ： $dumpfile（”vcd_file.vcd“）；
+      gtkwave vcd_file.vcd <br />
+   在Testbench中指定 ： $dumpfile（”vcd_file.vcd“）；
     
