@@ -1,0 +1,5 @@
+REPORT OF VERILOG HOMEWORK
+B05902102 黃麗璿
+	
+The difficulty that I face is I am new to this language and I don’t really know how to check my program whether it runs correctly or not. Also, I don’t really understand how to read file binary_adder.vcd  and to run that gtkwave binary_adder.vcd
+
